@@ -72,7 +72,7 @@ You are here!
 ---
 
 ## 👤 Author
-**Simon Mamdouh**  
+**Semon Mamdouh**  
 A passionate computer science graduate with a focus on data systems, SQL development, and real-world database solutions.
 
 ---
